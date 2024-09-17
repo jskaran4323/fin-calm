@@ -3,5 +3,5 @@ A finance tracker application
 
 Contributors: \
 Sam \
-Jaskaran \
+Jaskaran\
 
